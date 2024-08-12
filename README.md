@@ -1,8 +1,8 @@
 # Data Structures and Algorithms (DSA) Checklist
 
 ## Searching Algorithms
-- [ ] **Linear Search**: Searches for an element by checking each element in the list one by one.
-- [ ] **Binary Search**: Searches for an element in a sorted array by repeatedly dividing the search interval in half.
+- [x] **Linear Search**: Searches for an element by checking each element in the list one by one.
+- [x] **Binary Search**: Searches for an element in a sorted array by repeatedly dividing the search interval in half.
 
 ## Sorting Algorithms
 - [ ] **Bubble Sort**: Repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
