@@ -5,11 +5,11 @@
 - [x] **Binary Search**: Searches for an element in a sorted array by repeatedly dividing the search interval in half.
 
 ## Sorting Algorithms
-- [ ] **Bubble Sort**: Repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
-- [ ] **Selection Sort**: Divides the list into a sorted and an unsorted region and repeatedly selects the smallest (or largest) element from the unsorted region to add to the sorted region.
-- [ ] **Insertion Sort**: Builds the final sorted array one item at a time, assuming the first element is already sorted.
-- [ ] **Merge Sort**: Divides the list into two halves, recursively sorts them, and then merges the sorted halves.
-- [ ] **Quick Sort**: Divides the list into two parts based on a pivot element, sorts the parts, and then merges them.
+- [x] **Bubble Sort**: Repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
+- [x] **Selection Sort**: Divides the list into a sorted and an unsorted region and repeatedly selects the smallest (or largest) element from the unsorted region to add to the sorted region.
+- [x] **Insertion Sort**: Builds the final sorted array one item at a time, assuming the first element is already sorted.
+- [x] **Merge Sort**: Divides the list into two halves, recursively sorts them, and then merges the sorted halves.
+- [x] **Quick Sort**: Divides the list into two parts based on a pivot element, sorts the parts, and then merges them.
 
 ## Dynamic Programming
 - [ ] **Longest Common Subsequence**: Finds the longest subsequence common to all sequences in a set of sequences.
